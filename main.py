@@ -8,7 +8,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
 
 # ===================== CONFIG =====================
-BOT_TOKEN = "8761903557:AAEzubSAhOfu_4PSYn3BZAZBd_aKX6rOHrE"
+BOT_TOKEN = "8761903557:AAG6wXAr2nnyoRGvuqiuk07z2odT9wMZc5w"
 OWNER_ID = 7090770573
 GEMINI_API_KEY = "AIzaSyDVvQsyfZbhLAHAUculChgwLLg5AXPPrqI"
 DOWNLOAD_FOLDER = "downloads"
